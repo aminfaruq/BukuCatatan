@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Buku Catatan</string>
+    <string name="date">date</string>
+    <string name="title">title</string>
+    <string name="description">description</string>
+    <string name="judul">Judul</string>
+    <string name="submit">submit</string>
+    <string name="hapus">hapus</string>
+</resources>
